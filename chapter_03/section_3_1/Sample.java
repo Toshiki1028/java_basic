@@ -6,7 +6,3 @@ public class Sample {
         System.out.println("Hello, World!");
     }
 }
-
-public class StudyLog {
-public static void main(String[] args) {
-System.out.println("...");
