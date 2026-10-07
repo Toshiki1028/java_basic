@@ -6,6 +6,7 @@ public class Section13_2 {
         int copied = first;
         copied = 96;
         System.out.println(first);
+        System.out.println(copied);
 
         int[] pageCounts = {320};
         int[] copiedArray = pageCounts;
